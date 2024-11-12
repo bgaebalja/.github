@@ -33,7 +33,8 @@
 
 ## 📚 관련 URL
 
-- [B셀파 Repository](https://github.com/bgaebalja/bsherpa)
+- [B셀파 프론트엔드 Repository](https://github.com/bgaebalja/bsherpa-frontend)
+- [B셀파 백엔드 Repository](https://github.com/bgaebalja/bsherpa-backend)
 - [B셀파 서비스](https://bsherpa.com)
 - [B셀파 서버 API](https://bsherpa.duckdns.org/swagger-ui/index.html)
 - [B셀파 CI/CD 파이프라인](http://hyobin-jenkins.duckdns.org:8080/job/bsherpa)
