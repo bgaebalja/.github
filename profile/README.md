@@ -49,13 +49,14 @@
 ## 🛠️ Skills
 
 ## Front-End
+- JavaScript
+- TypeScript
 - React
 - Redux
 - Axios
 - HTML5
 - CSS3
 - JSP
-- JavaScript
 - Chart.js
   <br>
 
